@@ -1,11 +1,3 @@
-/*********************************************************************************************
-(C) 2015, Fabricio Lima Solucoes em Banco de Dados
-
-Site: www.fabriciolima.net
-
-Feedback: fabricioflima@gmail.com
-*********************************************************************************************/
-
 --Coloque o nome da base onde voce pretende guardar esse Log. Por favor, nao guarde na master ou outra base de sistema. Obrigado.
 USE Traces
 GO

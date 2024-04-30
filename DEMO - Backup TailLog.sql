@@ -1,9 +1,3 @@
-/*********************************************************************************************
-(C) 2015, Fabricio Lima Soluções em Banco de Dados
-
-Feedback: fabricioflima@gmail.com
-*********************************************************************************************/
-
 -- Criando uma database para teste
 --  DROP  DATABASE IF EXISTS [DBTailLog] --comando novo do sql 2016
 CREATE DATABASE [DBTailLog];

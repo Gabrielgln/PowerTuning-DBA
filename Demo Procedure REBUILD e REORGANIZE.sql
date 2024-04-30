@@ -1,11 +1,3 @@
-/*******************************************************************************************************************************
-(C) 2015, Fabrício Lima Soluções em Banco de Dados
-
-Site: http://www.fabriciolima.net/
-
-Feedback: contato@fabriciolima.net
-*******************************************************************************************************************************/
-
 USE [Traces]
 GO
 if object_id('stpManutencao_Indices') is not null

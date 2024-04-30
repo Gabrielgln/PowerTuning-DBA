@@ -1,9 +1,3 @@
-/*********************************************************************************************
-(C) 2015, Fabricio Lima Soluções em Banco de Dados
-
-Feedback: fabricioflima@gmail.com
-*********************************************************************************************/
-
 --Criação da database
 USE master 
 IF DATABASEPROPERTYEX (N'CHECKSUM', N'Version') > 0
